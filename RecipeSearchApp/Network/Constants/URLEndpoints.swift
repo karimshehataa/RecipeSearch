@@ -1,6 +1,6 @@
 //
 //  URLEndpoints.swift
-//  MarvelApp
+//  RecipeSearchApp
 //
 //  Created by Karim  on 28/03/2023.
 //

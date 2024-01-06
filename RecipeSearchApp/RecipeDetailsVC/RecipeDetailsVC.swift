@@ -31,7 +31,6 @@ class RecipeDetailsVC: UIViewController {
             let image = recipe.recipe?.image
             let url = URL(string: image ?? "")
             self.recipeImage.af.setImage(withURL: url ?? URL(fileURLWithPath: ""))
-            
         }
         // Do any additional setup after loading the view.
     }
